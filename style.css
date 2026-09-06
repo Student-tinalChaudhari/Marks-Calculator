@@ -1,0 +1,44 @@
+.container{
+    border: 3px solid black;
+    height: 650px;
+}
+.col-4{
+    height: 500px;
+    width: 400px;
+    margin-left: 150px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top: 5px solid rgb(26, 141, 199);
+    border-bottom: 1px solid rgb(37, 151, 207) ;
+    border-left: 1px solid rgb(37, 151, 207) ;
+    border-right: 3px dotted rgb(26, 141, 199);
+}
+.col-5{
+    height: 500px;
+    width: 400px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom: 5px solid grey;
+    border-top: 0.2px solid rgb(223, 220, 220) ;
+    border-right: 0.2px solid rgba(118, 116, 116, 0.2) ;
+    border-left: 3px dotted grey ;
+    
+}
+.h1{
+    font-family: fantasy;
+}
+.h3{
+    font-family: fantasy;
+}
+.h5{
+    padding-top: 50px;
+    font-style: italic;
+}
+.h2{
+    padding-top: 50px;
+    font-family: cursive;
+    font-style: italic;
+}
+.result{
+    border-radius: 20px;
+}
